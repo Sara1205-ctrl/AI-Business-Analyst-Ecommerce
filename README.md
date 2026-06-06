@@ -24,6 +24,23 @@ Users can upload e-commerce sales data, analyze KPIs, visualize trends, and rece
 * Streamlit
 * Google Gemini AI
 
+## Project Screenshots
+
+### Dashboard & Category Chart
+![Dashboard](Dashboard%20%26%20category%20chart.png)
+
+### Sales by Region
+![Region Chart](Sales%20by%20region%20chart.png)
+
+### Monthly Trend
+![Monthly Trend](Monthly%20trend.png)
+
+### Business Summary
+![Business Summary](Business%20summary.png)
+
+### AI Insights
+![AI Insights](AI%20insights.png)
+
 ## Business Value
 
 The application helps managers make data-driven decisions by converting raw sales data into meaningful insights and recommendations.
